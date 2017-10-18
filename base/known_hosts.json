@@ -1,0 +1,10 @@
+{
+  "id": "known_hosts",
+  "gh_key": {
+    "encrypted_data": "1blPm+WEZB1PSJUmjp/KYCXAnQMpf0sE8lPEV1iCpDfZRTlrJCVjBIRLkLWF\nwHzAzBB6aw4/p2REDxELQgyFZ4NspK2tjUxhvEgjHQqb9u69Vd7chGd33Bnu\n82rUnJWl+tJ9IrYCc09R6pMig+HIQKfDV3bxuYe8+RvxpZEnOXNqUONUz9Bb\nh/JFA+ZTHDK/EMjxR5u95tR58QwRA1xfirACBT1ymqAIse7r6Fec+xjno0wt\ndmtcyp/ckWnVoy2h//t7qfxzInrXd1ON0lOWDhhwMphrczhOl8R0iHQIRGSy\nvToNfI3vtNH5KxssJk7X0hzeyotJcFm2qA08h1djGZw5gR2LccVA0ETtbI4z\nTYGuvsXlBWAlgLAJfBR81crAgEdqVwPsjg73wFezh2TSt+fNktobNneXOcch\n8pDk8S/Sv9zPnPBeQ0+IBI6wv2dYP0Ry37Ov+g1ZF4KdAg4TUyj10tdL2ars\nB9/DjMxFTvDn8dLrtxNXonnzZU3jrN20dyAf/HYi+/kx/TLZWhxa7NXXDv1l\nhkrsgcGmqiqpD1VDPatj9Mpvdwk=\n",
+    "iv": "Z9IhjjwB/Hh7njFP\n",
+    "auth_tag": "O0jCC2AcvM2UbrJcfFVjxQ==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  }
+}

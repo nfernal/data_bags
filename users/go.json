@@ -1,0 +1,19 @@
+{
+  "id": "go",
+  "groups": [
+    "adm",
+    "wheel",
+    "go"
+  ],
+  "uid": 630,
+  "shell": "/bin/bash",
+  "home": "/home/go",
+  "comment": "go",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC/ss+bk4BZaNCMZQNca3GUVEuzB0oL4SrCzw4Va12VOANl2Rdzu0ni6np8c1VI+puxohE3Fhj63NJKEJEGgY0Yi/gvCxGXjaRCji+pi+VoHjV6cileA7V3vI7CRJV54+NgUUSqFHYrwJJq24DDm+8fiZJDsiZuxVGhydOHlOnHyeEMJ2ZgcR78V7tfeUS7pgYOz2n6XJ68lsWojs9hgDEl7ENu87A+ad+FK5ICA+4ftgRWMdruBT6xzVxQcOI3GyiBEggpiV+I90We1gHKeGJ9gZtU6oWRGhU8gWd7NRQKFrIU4SVKDM6/nHnLlBt6TD2EUbVBV+Vi4p+ookdoEebMEtiik5wfukqWGQYJXpcl5TvRtg/k/HqIRjns1N4ZH1GEHCLu1X5anazE1Jouglt5FmRimgnzeYQzRIEPk62q1Nzn3cwS2vJRxYpacJGBqmm/LJTznHeQaj22TCVKao/6vVksEqU3oM/s1OMjZGY3FJGuIGZXl/ICgC/fL1TyVabB06qZ4fZ7EB1VT+V3FCx8phZfYezMh1XCFqhv3U1cIEcX+J9FAEJv95DVj9omNh19lFAr8WFqv24n4r/TSzGvrUku042GiUuXNXlBFTv8lDrzUL05LuK2jU/VhjyXYZHRnz/4RoT5St0YBbvzhUHidYRvJZE/Hz8z8/zSO1nWAQ== go@jibakureic.com"
+  ],
+  "action": [
+    "create",
+    "lock"
+  ]
+}

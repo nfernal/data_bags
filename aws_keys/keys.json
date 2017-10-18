@@ -1,0 +1,10 @@
+{
+  "id": "keys",
+  "go": {
+    "encrypted_data": "fNNmVHidNpeOzfU8+uhQD5yJBU+TcEmeXBVCiWLc44wOBAXKcP4oACXcK1Kz\njjwRbADrnKEA+Nw5DgullyKJZBr6c7+tofWaGutpX8zOyOqFsA3zG1bRogF0\nR1n4IGkwBj5gjmzDkFUa5lhlXkFvsrM4yTPSGO/T\n",
+    "iv": "bRTZ7+Pk1tk7e+RB\n",
+    "auth_tag": "9594tTDlRm+63GbHEdgqdg==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "centos",
+  "groups": [
+    "adm",
+    "wheel",
+    "devops"
+  ],
+  "uid": 500,
+  "shell": "/bin/bash",
+  "home": "/home/centos",
+  "comment": "centos",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQD4AXoMS1Kam4nIcyuXgEq6WA8Itl4zyaSF46ojjd6sl3wrRf9pg3NDL72YyYn8B6t34cFmKqa0OSboLJU42KYo0OZ4v2yPxqm0VGoI03RKyrT9hIFvBH/CkZ2kyxTWrU+SCF2qUXBKLneKUFqXGgG2osOKG/4t2bNIiq4PIgXZB7xLZa5xpMmFQqaFlAu8U0b5yC5xmVAIzzosiU07Npkw7MLyf9CgFzhwHKtuq3j8dP9Wc/giq0PiCD1xdK59f4IKZ14sCp26N00vgJCLQlnr0mJ7cgZeKCbJ8yRV1jUMQn9g8fK1vIyu9Q2/EyJONq1eFlOUWV/RK2plRGvWPrBvOK0fpbmYPNMYhFj153Q6zgy7eglfY7DTs3Mg4nAajGTNaBWRvfK1gGeBHkwePx8YVuzA1x9OlgQdv6RWYCkFVQkbsavPlaRIVoIylSjd8Guqn1DQCX9q/VHuHHnSfY47LT0TCiKkZDGjLjGz80hSXMMOzVHNpqbd6lyTQMrEUZniZNs3hTeWkvbVoe6TmvNxIOekBbJxd2EXCwUJsc6bemQ1ImgNy8Br0mzJ3g4mPcoEfjFDwTiLhRo3LV8bqcsO81pvnHWxB+zosKyM1ZCwabCvFsBd55UBGWdGarGf7wXzS9sIEPJRXsAJhVswhld7K3XiG151+Q8E0gMw3D1j4Q== id_rsa"
+  ],
+  "action": [
+    "create",
+    "lock"
+  ]
+}
